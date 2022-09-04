@@ -1,11 +1,29 @@
-* {
-  margin:0px;
-  padding:0px;
+.btn {
+  padding: 10px;
+  color: white;
+}
+
+.btn-1 { background-color: #33FFA5; }
+
+.btn-2 { background-color: #33E0FF; }
+
+body {
+  background-color: #a7dbe3;
+  color: white;
+  font-size: 21px;
+}
+
+h1 {
+  font-size: 70px;
+  color: #3747b3;
 }
 
 p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  color: # 2f4c5c;
+}
+
+.box {
+  background: pink;
+  padding: 100px;
+  margin: 100px;
 }
